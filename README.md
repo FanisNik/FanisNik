@@ -5,7 +5,7 @@
 🎓 **Computer Science student at the University of Western Macedonia (UOWM)**, graduating in 2025.  
 I had the privilege to broaden my studies through an Erasmus+ program at Universidad de Castilla-La Mancha in Spain, where I focused on Computer Networks, Information Systems Audit, and VLSI Design.
 
-Starting this September, I will continue my academic journey at <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Universidad_Politécnica_de_Madrid_logo.svg" width="20"/> **Universidad Politécnica de Madrid**, pursuing a Master’s in Software and Systems.
+Starting this September, I will continue my academic journey at <img src=https://www.upm.es/gsfs/SFS24596/> **Universidad Politécnica de Madrid**, pursuing a Master’s in Software and Systems.
 
 I’m passionate about **software engineering**, **clean architecture**, and building scalable, user-focused applications. With over 20 certifications from top institutions like Harvard, AWS, and Cisco, I constantly explore new technologies and improve my craft through hands-on projects and hackathons.
 
