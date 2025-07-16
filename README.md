@@ -5,15 +5,31 @@
 🎓 **Computer Science student at the University of Western Macedonia (UOWM)**, graduating in 2025.  
 I had the privilege to broaden my studies through an Erasmus+ program at Universidad de Castilla-La Mancha in Spain, where I focused on Computer Networks, Information Systems Audit, and VLSI Design.
 
+Starting this September, I will continue my academic journey at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Universidad_Politécnica_de_Madrid.svg/1200px-Universidad_Politécnica_de_Madrid.svg.png" width="20"/> **Universidad Politécnica de Madrid**, pursuing a Master’s in Software and Systems.
+
 I’m passionate about **software engineering**, **clean architecture**, and building scalable, user-focused applications. With over 20 certifications from top institutions like Harvard, AWS, and Cisco, I constantly explore new technologies and improve my craft through hands-on projects and hackathons.
+
+I strive to **design software that is not only functional but also elegant and maintainable**, and I enjoy collaborating in diverse teams to bring ideas to life. My goal is to contribute to impactful projects that make a difference, while growing as an engineer and aspiring software architect.
 
 ---
 
 ## 🚀 Technical Skills
 
-- **Languages:** Python, JavaScript, TypeScript, Swift, SQL, C#
-- **Frameworks & Tools:** Tkinter, UIKit, React, Node.js, Git, AWS
-- **Soft Skills:** Leadership, communication, problem solving, critical thinking
+### 💻 Top Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+---
+
+## 🤝 Soft Skills
+
+- Communication
+- Problem solving
+- Leadership
+- Critical thinking
+- Continuous learning
 
 ---
 
@@ -78,4 +94,4 @@ A simple console-based implementation of the classic game using JavaScript.
 
 ---
 
-⭐ I’m always open to collaborations, internships, and interesting software engineering projects. Feel free to reach out!
+I’m always open to collaborations, internships, and interesting software engineering projects. Feel free to reach out!
