@@ -88,7 +88,6 @@ A simple console-based implementation of the classic game using JavaScript.
 ## 💬 Let’s Connect!
 
 - 📧 Email: [fanisnikolaou@icloud.com](mailto:fanisnikolaou@icloud.com)
-- 🖥️ Website:[Portfolio Website](https://fanisnik.github.io/portfolio/)
 
 ---
 
