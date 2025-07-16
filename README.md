@@ -35,22 +35,22 @@ I strive to **design software that is not only functional but also elegant and m
 
 ## 🛠️ Projects
 
-### 💡 [Password Generator](https://github.com/fanisnik/Password-Generator)
+### 💡 [Password Generator](https://github.com/FanisNik/PasswordGenerator)
 A Python desktop app using Tkinter to generate secure passwords (4–25 characters) with one click and copy them to the clipboard.
 
-### 🎮 [Game Night](https://github.com/fanisnik/GameNight)
+### 🎮 [Game Night](https://github.com/FanisNik/gamenight)
 A party game with 3 mini-games and two play modes (Standard & Extreme), built with TypeScript/JavaScript. Users can skip questions but will receive random challenges!
 
-### 📱 [Game Night iOS](https://github.com/fanisnik/GameNight-iOS)
+### 📱 [Game Night iOS](https://github.com/FanisNik/gamenight-iOS-)
 The Game Night party game ported to iOS using Swift and UIKit, fully optimized for mobile experience.
 
-### ➗ [Calculator](https://github.com/fanisnik/Calculator)
+### ➗ [Calculator](https://github.com/FanisNik/Calculator)
 A modern, user-friendly calculator built in Python with Tkinter. Supports basic arithmetic and maintains a calculation history.
 
-### ❌⭕ [Tic-Tac-Toe](https://github.com/fanisnik/Tic-Tac-Toe)
+### ❌⭕ [Tic-Tac-Toe](https://github.com/FanisNik/TicTacToe)
 A two-player game with win/tie detection and smooth turn-based interaction, built in Python using Tkinter.
 
-### ✊✋✌️ [Rock Paper Scissors](https://github.com/fanisnik/Rock-Paper-Scissors)
+### ✊✋✌️ [Rock Paper Scissors](https://github.com/FanisNik/RPS)
 A simple console-based implementation of the classic game using JavaScript.
 
 ---
@@ -88,9 +88,7 @@ A simple console-based implementation of the classic game using JavaScript.
 ## 💬 Let’s Connect!
 
 - 📧 Email: [fanisnikolaou@icloud.com](mailto:fanisnikolaou@icloud.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/theofanis-nikolaou/)
-- 🌍 [Portfolio Website](https://fanisnik.github.io/portfolio/)
-- 📄 [Download CV](https://fanisnik.github.io/portfolio/)
+- 🖥️ Website:[Portfolio Website](https://fanisnik.github.io/portfolio/)
 
 ---
 
