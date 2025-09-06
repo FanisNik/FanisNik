@@ -35,6 +35,9 @@ I strive to **design software that is not only functional but also elegant and m
 
 ## Projects
 
+### [Task Organizer](https://github.com/FanisNik/TaskOrganizer)
+A SwiftUI iOS app for organizing weekly tasks with scheduling, editing, and profile photo support.
+
 ### [Password Generator](https://github.com/FanisNik/PasswordGenerator)
 A Python desktop app using Tkinter to generate secure passwords (4–25 characters) with one click and copy them to the clipboard.
 
