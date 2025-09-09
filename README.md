@@ -38,14 +38,14 @@ I strive to **design software that is not only functional but also elegant and m
 ### [Task Organizer](https://github.com/FanisNik/TaskOrganizer)
 A SwiftUI iOS app for organizing weekly tasks with scheduling, editing, and profile photo support.
 
+### [Game Night iOS](https://github.com/FanisNik/gamenight-iOS-)
+The Game Night party game ported to iOS using Swift and UIKit, fully optimized for mobile experience.
+
 ### [Password Generator](https://github.com/FanisNik/PasswordGenerator)
 A Python desktop app using Tkinter to generate secure passwords (4–25 characters) with one click and copy them to the clipboard.
 
 ### [Game Night](https://github.com/FanisNik/gamenight)
 A party game with 3 mini-games and two play modes (Standard & Extreme), built with TypeScript/JavaScript. Users can skip questions but will receive random challenges!
-
-### [Game Night iOS](https://github.com/FanisNik/gamenight-iOS-)
-The Game Night party game ported to iOS using Swift and UIKit, fully optimized for mobile experience.
 
 ### [Calculator](https://github.com/FanisNik/Calculator)
 A modern, user-friendly calculator built in Python with Tkinter. Supports basic arithmetic and maintains a calculation history.
