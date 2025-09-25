@@ -1,6 +1,6 @@
 # Hi, I'm Theofanis Nikolaou
 
-## Junior Software Engineer | Aspiring Software Architect
+## Junior Software Engineer | Aspiring Software Project Manager
 
 **Computer Science student at the University of Western Macedonia (UOWM)**, graduating in 2025.  
 I had the privilege to broaden my studies through an Erasmus+ program at Universidad de Castilla-La Mancha in Spain, where I focused on Computer Networks, Information Systems Audit, and VLSI Design.
