@@ -2,10 +2,10 @@
 
 ## Junior Software Engineer | Aspiring Software Project Manager
 
-**Computer Science student at the University of Western Macedonia (UOWM)**, graduating in 2025.  
-I had the privilege to broaden my studies through an Erasmus+ program at Universidad de Castilla-La Mancha in Spain, where I focused on Computer Networks, Information Systems Audit, and VLSI Design.
+Computer Science student at the [University of Western Macedonia (UOWM)](https://www.uowm.gr/en/), graduating in 2025.  
+I had the privilege to broaden my studies through an Erasmus+ program at [Universidad de Castilla-La Mancha (UCLM)](https://www.uclm.es/en), where I focused on Computer Networks, Information Systems Audit, and VLSI Design.
 
-Starting this September 2025, I will continue my academic journey at **Universidad Politécnica de Madrid**, pursuing a Master’s in Software and Systems.
+Starting this September 2025, I will continue my academic journey at [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/), pursuing a Master’s in Software and Systems.
 
 I’m passionate about **software engineering**, **clean architecture**, and building scalable, user-focused applications. With over 20 certifications from top institutions like Harvard, AWS, and Cisco, I constantly explore new technologies and improve my craft through hands-on projects and hackathons.
 
@@ -17,9 +17,24 @@ I strive to **design software that is not only functional but also elegant and m
 
 ### Top Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" alt="Swift" title="Swift"/></code>
+</div>
+
+### Top IDEs
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+</div>
+
+### Operating Systems
+<div align="center">
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+</div>
 
 ---
 
