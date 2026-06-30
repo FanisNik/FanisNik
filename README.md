@@ -45,6 +45,7 @@ I strive to **design software that is not only functional but also elegant and m
 - Leadership
 - Critical thinking
 - Continuous learning
+- Teamwork
 
 ---
 
@@ -76,6 +77,8 @@ A simple console-based implementation of the classic game using JavaScript.
 ## Honors & Awards
 
 - **Learn-A-Thon 2024**, Cisco Networking Academy
+- **Best Impact Project Summer Camp Budapest 2026**, REDINEST
+
 
 ---
 
