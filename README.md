@@ -108,7 +108,7 @@ A simple console-based implementation of the classic game using JavaScript.
 
 ## Let’s Connect!
 
-- Email: [fanisnikolaou@icloud.com](mailto:fanisnikolaou@icloud.com)
+- LinkedIn: [Theofanis Nikolaou](https://www.linkedin.com/in/nikolaou-theofanis/)
 
 ---
 
