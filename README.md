@@ -60,18 +60,6 @@ The Game Night party game ported to iOS using Swift and UIKit, fully optimized f
 ### [Password Generator](https://github.com/FanisNik/PasswordGenerator)
 A Python desktop app using Tkinter to generate secure passwords (4–25 characters) with one click and copy them to the clipboard.
 
-### [Game Night](https://github.com/FanisNik/gamenight)
-A party game with 3 mini-games and two play modes (Standard & Extreme), built with TypeScript/JavaScript. Users can skip questions but will receive random challenges!
-
-### [Calculator](https://github.com/FanisNik/Calculator)
-A modern, user-friendly calculator built in Python with Tkinter. Supports basic arithmetic and maintains a calculation history.
-
-### [Tic-Tac-Toe](https://github.com/FanisNik/TicTacToe)
-A two-player game with win/tie detection and smooth turn-based interaction, built in Python using Tkinter.
-
-### [Rock Paper Scissors](https://github.com/FanisNik/RPS)
-A simple console-based implementation of the classic game using JavaScript.
-
 ---
 
 ## Honors & Awards
